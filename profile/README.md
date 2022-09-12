@@ -14,10 +14,22 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 [Conoce más detalles aquí 👈🏻](https://home.com.gt/es/services/technical-support)
 
 
-<!-- ### 📲 Redes sociales -->
+## 📲 Contactanos
+
+|📲 Sitio Web|
+|---|
+|![website-logo](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)|
+|![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.gt](https://home.gt/)|
+
+
+|📩 Correo|
+|---|
+|![mail-logo](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [info@home.com.gt](mail:info@home.com.gt)|
+|![mail-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [ventas@home.com.gt](mail:ventas@home.com.gt)|
+
+
 |📲 Redes sociales|
 |---|
-|![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)|
 |![facebook-logo](https://github.com/HomeGT/.github/blob/master/profile/facebook-logo.png?raw=true) [Facebook](https://www.facebook.com/home.com.gt)|
 |![instagram-logo](https://github.com/HomeGT/.github/blob/master/profile/instagram-logo.png?raw=true) [Instagram](https://www.instagram.com/home.com.gt/)|
 |![LinkedIn-logo](https://github.com/HomeGT/.github/blob/master/profile/linkedin-logo.png?raw=true) [LinkedIn](https://www.linkedin.com/in/home-gt-b4331b247/)|
