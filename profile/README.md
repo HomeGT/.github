@@ -16,20 +16,20 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 
 ## 📲 Contactanos
 
-|📲 Sitio Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|---|
+| 📲 Sitio Web |
+| --- |
 |![website-logo](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)|
 |![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.gt](https://home.gt/)|
 
 
-|📩 Correo|
-|---|
+| 📩 Correo |
+| --- |
 |![mail-logo](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) <a href="mailto:info@home.com.gt">info@home.com.gt</a>|
 |![mail-web](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) <a href="mailto:ventas@home.com.gt">ventas@home.com.gt</a>|
 
 
-|📲 Redes sociales|
-|---|
+| 📲 Redes sociales |
+| --- |
 |![facebook-logo](https://github.com/HomeGT/.github/blob/master/profile/facebook-logo.png?raw=true) [Facebook](https://www.facebook.com/home.com.gt)|
 |![instagram-logo](https://github.com/HomeGT/.github/blob/master/profile/instagram-logo.png?raw=true) [Instagram](https://www.instagram.com/home.com.gt/)|
 |![LinkedIn-logo](https://github.com/HomeGT/.github/blob/master/profile/linkedin-logo.png?raw=true) [LinkedIn](https://www.linkedin.com/in/home-gt-b4331b247/)|
