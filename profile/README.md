@@ -16,11 +16,15 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 ### 📲 Redes sociales
 ![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)
 <br>
+<br>
 ![facebook-logo](https://github.com/HomeGT/.github/blob/master/profile/facebook-logo.png?raw=true) [Facebook](https://www.facebook.com/home.com.gt)
+<br>
 <br>
 ![instagram-logo](https://github.com/HomeGT/.github/blob/master/profile/instagram-logo.png?raw=true) [Instagram](https://www.instagram.com/home.com.gt/)
 <br>
+<br>
 ![LinkedIn-logo](https://github.com/HomeGT/.github/blob/master/profile/linkedin-logo.png?raw=true) [LinkedIn](https://www.linkedin.com/in/home-gt-b4331b247/)
+<br>
 <br>
 ![WhatsApp-logo](https://github.com/HomeGT/.github/blob/master/profile/whatsapp-logo.png?raw=true) [WhatsApp](https://api.whatsapp.com/send?phone=50258131533&text=Hola+HomeGT%2C+me+gustar%C3%ADa+m%C3%A1s+informaci%C3%B3n+sobre+sus+servicios.)
 
