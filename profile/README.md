@@ -24,8 +24,8 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 
 |📩 Correo|
 |---|
-|![mail-logo](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) [info@home.com.gt](info@home.com.gt)|
-|![mail-web](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) [ventas@home.com.gt](ventas@home.com.gt)|
+|![mail-logo](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) <a href="mailto:info@home.com.gt">info@home.com.gt</a>|
+|![mail-web](https://github.com/HomeGT/.github/blob/master/profile/email-logo.png?raw=true) <a href="mailto:ventas@home.com.gt">ventas@home.com.gt</a>|
 
 
 |📲 Redes sociales|
