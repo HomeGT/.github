@@ -16,7 +16,7 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 
 ## 📲 Contactanos
 
-|📲 Sitio Web                     |
+|📲 Sitio Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|
 |![website-logo](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)|
 |![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.gt](https://home.gt/)|
