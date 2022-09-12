@@ -14,7 +14,9 @@ Somos el aliado tecnológico que usted y su empresa necesitan.
 [Conoce más detalles aquí 👈🏻](https://home.com.gt/es/services/technical-support)
 
 ### 📲 Redes sociales
-![website](./website-logo.png) [home.com.gt](https://home.com.gt)
+![website-web](https://github.com/HomeGT/.github/blob/master/profile/website-logo.png?raw=true) [home.com.gt](https://home.com.gt/)
 
-![website](./facebook-logo.png) [Facebook](https://facebook.com/home.com.gt)
+![facebook-logo](https://github.com/HomeGT/.github/blob/master/profile/facebook-logo.png?raw=true) [Facebook](https://www.facebook.com/home.com.gt)
+
+![instagram-logo](https://github.com/HomeGT/.github/blob/master/profile/instagram-logo.png?raw=true) [Instagram](https://www.instagram.com/home.com.gt/)
 
